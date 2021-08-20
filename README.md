@@ -1,4 +1,4 @@
-# Taller-Colaborativo-Programacion-II
+# Taller Colaborativo Programacion II
 
 ## Integrantes:
 
