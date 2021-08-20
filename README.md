@@ -1,4 +1,5 @@
 # Taller-Colaborativo-Programacion-II
+- [ ] \(Optional) Abre una propuesta de seguimiento
 
 ## Integrantes:
 
@@ -7,15 +8,18 @@
   -  Llenar caracteres,
   -  Borrar caracteres
   -  Diferencia
+  
 - Geraldine Alexandra Parada Tobar
   ### Asignaciones:
   -   Encriptar
   -   Desencriptar
+
 - Andres Felipe Ponguta Perez
   ### Asignaciones:
   -  Convertir en nombre propio el contenido de la cadena
   -  Buscar Cadena de caracteres
   -  Colaborar con Encriptar y desencriptar
+
 - Marcos Esteban Vargas Avella
   ### Asignaciones:
   -   Intersección
