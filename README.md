@@ -1,30 +1,29 @@
 # Taller-Colaborativo-Programacion-II
-- [ ] \(Optional) Abre una propuesta de seguimiento
 
 ## Integrantes:
 
 - Jherson Mauricio Baez Paco
   ### Asignaciones:
-  -  Llenar caracteres,
-  -  Borrar caracteres
-  -  Diferencia
+  - [ ]  Llenar caracteres,
+  - [ ]  Borrar caracteres
+  - [ ]  Diferencia
   
 - Geraldine Alexandra Parada Tobar
   ### Asignaciones:
-  -   Encriptar
-  -   Desencriptar
+  - [ ]   Encriptar
+  - [ ]   Desencriptar
 
 - Andres Felipe Ponguta Perez
   ### Asignaciones:
-  -  Convertir en nombre propio el contenido de la cadena
-  -  Buscar Cadena de caracteres
-  -  Colaborar con Encriptar y desencriptar
+  - [ ]  Convertir en nombre propio el contenido de la cadena
+  - [ ]  Buscar Cadena de caracteres
+  - [ ]  Colaborar con Encriptar y desencriptar
 
 - Marcos Esteban Vargas Avella
   ### Asignaciones:
-  -   Intersección
-  -   Borrar caracteres izquierda o derecha
-  -   Validar Email
+  - [ ]   Intersección
+  - [ ]   Borrar caracteres izquierda o derecha
+  - [ ]   Validar Email
 
 ## IDE:
 - Eclipse
