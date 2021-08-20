@@ -2,7 +2,7 @@
 
 ## Integrantes:
 
-- Jherson Mauricio Baez Paco
++ Jherson Mauricio Baez Paco
   ## Asignaciones:
   -  Llenar caracteres,
   -  Borrar caracteres
