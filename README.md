@@ -10,8 +10,8 @@
   
 - Geraldine Alexandra Parada Tobar
   ### Asignaciones:
-  - [ ]   Encriptar
-  - [ ]   Desencriptar
+  - [ ]   Cifrar
+  - [ ]   Descifrar
 
 - Andres Felipe Ponguta Perez
   ### Asignaciones:
