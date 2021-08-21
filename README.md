@@ -7,6 +7,12 @@
   - [ ]  Llenar caracteres,
   - [ ]  Borrar caracteres
   - [ ]  Diferencia
+  - Autoevaluación :
+  - Coevaluación:
+    - Marcos:
+    - Geraldine:
+    - Andres:   
+  - Heteroevaluación:
   
 - Geraldine Alexandra Parada Tobar
   ### Asignaciones:
