@@ -71,7 +71,7 @@ public class Features {
 			
 			// Cycle to walk through array and encrypt
 			
-			encryptStr+=(char)word.charAt(i)+word.length();
+			encryptStr+=(char)(word.charAt(i)+word.length());
 		}
 		
 		return encryptStr ;
@@ -91,7 +91,7 @@ public class Features {
 			
 			// Cycle to walk through array and decrypt
 			
-			decrypttStr+=(char)word.charAt(i)-word.length();
+			decrypttStr+=(char)(word.charAt(i)-word.length());
 		}
 		return decrypttStr;
 	}
@@ -182,7 +182,7 @@ public class Features {
 			output+=(word.toLowerCase().indexOf(DEFAULT_MESSAGE.toLowerCase().charAt(i))>=0)?
 					"":DEFAULT_MESSAGE.charAt(i);			
 		}
-		return DEFAULT_MESSAGE.length()>0?word:output;
+		return DEFAULT_MESSAGE.length()>0?output:word;
 	}
 	
 	/**
