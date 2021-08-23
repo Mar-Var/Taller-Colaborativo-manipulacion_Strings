@@ -27,9 +27,9 @@
 
 - Andres Felipe Ponguta Perez
   ### Asignaciones:
-  - [ ]  Convertir en nombre propio el contenido de la cadena
-  - [ ]  Buscar Cadena de caracteres
-  - [ ]  Colaborar con Encriptar y desencriptar
+  - [X]  Convertir en nombre propio el contenido de la cadena
+  - [X]  Buscar Cadena de caracteres
+  - [X]  Colaborar con Encriptar y desencriptar
   - Autoevaluación :
   - Coevaluación:
     - Marcos:

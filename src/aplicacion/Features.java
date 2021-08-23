@@ -21,15 +21,39 @@ public class Features {
 	public Features(String defaultMessaje) {
 		 this.DEFAULT_MESSAGE=defaultMessaje;
 	} 
+	
+	/**
+	* Method that returns the string of the constructor parameter "defaultMessaje" as proper name
+	* @return String converted to proper name
+	**/
+	
 	public String ConvertProperName() {
+		String convertedString="";
 		
+		for (int i = 0; i < DEFAULT_MESSAGE.length(); i++) {
+			
+			convertedString+=(i==0 || (DEFAULT_MESSAGE.charAt(i-1)==' ' && DEFAULT_MESSAGE.charAt(i+1)!=' ') )
+					?Character.toUpperCase(DEFAULT_MESSAGE.charAt(i)):Character.toLowerCase(DEFAULT_MESSAGE.charAt(i));
+		}
 		
-		return null;
+		return DEFAULT_MESSAGE.length()>0?convertedString:"Error:Imposible acceder";
 	}
 	
-	public int searchWord(String word) {
-		
-		return 0;
+	/**
+	* This method looks for the times that a string is skipped in another string
+	* @param word The word parameter defines the string to search for in the string entered as
+	  the class constructor parameter
+	* @return The number of times the string is repeated in the string entered as the class constructor parameter
+	*/
+	
+	public int searchTimeWord(String word) {
+		int counter=0;
+
+		for (int i = 0; i < DEFAULT_MESSAGE.length(); i++) {
+			counter+=(DEFAULT_MESSAGE.toLowerCase().indexOf(word.toLowerCase(), i)>=0 
+					 && DEFAULT_MESSAGE.toLowerCase().indexOf(word.toLowerCase(), i)==i)?1:0;
+		}
+		return counter;
 	}
 	
 	public static String encrypt(String word) {
