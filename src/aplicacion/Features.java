@@ -56,13 +56,44 @@ public class Features {
 		return counter;
 	}
 	
+	
+	/**
+	* This method works under the concept of Cesar or Scroll encryption to encrypt
+	* @param word The word parameter defines the string to be encrypted
+	* @return The encrypted string.
+	*/
+	
 	public static String encrypt(String word) {
 		
-		return null;
+		String encryptStr="";
+		
+		for (int i = 0; i < word.length(); i++) {
+			
+			// Cycle to walk through array and encrypt
+			
+			encryptStr+=(char)word.charAt(i)+word.length();
+		}
+		
+		return encryptStr ;
 	}
+	
+	/**
+	* This method works under the concept of Cesar encryption or by Scroll for decryption.
+	* @param word The word parameter defines the string to be decrypted
+	* @return The decrypted string
+	*/
+	
 	public static String decrypt(String word) {
 		
-		return null;
+		String decrypttStr="";
+		
+		for (int i = 0; i < word.length(); i++) {
+			
+			// Cycle to walk through array and decrypt
+			
+			decrypttStr+=(char)word.charAt(i)-word.length();
+		}
+		return decrypttStr;
 	}
 	
 	/**

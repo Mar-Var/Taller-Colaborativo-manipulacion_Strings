@@ -16,8 +16,8 @@
   
 - Geraldine Alexandra Parada Tobar
   ### Asignaciones:
-  - [ ]   Cifrar
-  - [ ]   Descifrar
+  - [X]   Cifrar
+  - [X]   Descifrar
   - Autoevaluación :
   - Coevaluación:
     - Marcos:
