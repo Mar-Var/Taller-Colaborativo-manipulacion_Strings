@@ -38,9 +38,9 @@
   - Heteroevaluación:
 - Marcos Esteban Vargas Avella
   ### Asignaciones:
-  - [ ]   Intersección
-  - [ ]   Borrar caracteres izquierda o derecha
-  - [ ]   Validar Email
+  - [X]   Intersección
+  - [X]   Borrar caracteres izquierda o derecha
+  - [X]   Validar Email
   - Autoevaluación :
   - Coevaluación:
     - Jherson:
