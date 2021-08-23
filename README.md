@@ -23,7 +23,7 @@
   - Coevaluación:
     - Marcos:5.0
     - Jherson:
-    - Andres: 4.5   
+    - Andres: 5.0   
     ### Total:
   - Heteroevaluación:
 
@@ -32,7 +32,7 @@
   - [X]  Convertir en nombre propio el contenido de la cadena
   - [X]  Buscar Cadena de caracteres
   - [X]  Colaborar con Encriptar y desencriptar
-  - Autoevaluación :  3.5
+  - Autoevaluación :  4.5
   - Coevaluación:
     - Marcos:5.0
     - Geraldine:4.0
@@ -48,7 +48,7 @@
   - Coevaluación:
     - Jherson:
     - Geraldine:5.0
-    - Andres: 4.5   
+    - Andres: 5.0   
     ### Total:
   - Heteroevaluación:
 ## IDE:
