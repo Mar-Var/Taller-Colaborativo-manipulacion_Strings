@@ -9,9 +9,10 @@
   - [X]  Diferencia
   - Autoevaluación :
   - Coevaluación:
-    - Marcos:
+    - Marcos: 5.0
     - Geraldine:
-    - Andres:   
+    - Andres:
+    ### Total:
   - Heteroevaluación:
   
 - Geraldine Alexandra Parada Tobar
@@ -20,9 +21,10 @@
   - [X]   Descifrar
   - Autoevaluación :
   - Coevaluación:
-    - Marcos:
+    - Marcos:5.0
     - Jherson:
     - Andres:   
+    ### Total:
   - Heteroevaluación:
 
 - Andres Felipe Ponguta Perez
@@ -32,20 +34,23 @@
   - [X]  Colaborar con Encriptar y desencriptar
   - Autoevaluación :
   - Coevaluación:
-    - Marcos:
+    - Marcos:5.0
     - Geraldine:
     - Jherson:   
+    ### Total:
   - Heteroevaluación:
 - Marcos Esteban Vargas Avella
   ### Asignaciones:
   - [X]   Intersección
   - [X]   Borrar caracteres izquierda o derecha
   - [X]   Validar Email
-  - Autoevaluación :
+  - Autoevaluación :5.0
   - Coevaluación:
     - Jherson:
     - Geraldine:
     - Andres:   
+    ### Total:
   - Heteroevaluación:
 ## IDE:
 - Eclipse
+
