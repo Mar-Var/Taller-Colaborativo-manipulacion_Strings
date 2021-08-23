@@ -10,7 +10,7 @@
   - Autoevaluación :
   - Coevaluación:
     - Marcos: 5.0
-    - Geraldine:
+    - Geraldine:5.0
     - Andres: 3.0 
     ### Total:
   - Heteroevaluación:
@@ -19,7 +19,7 @@
   ### Asignaciones:
   - [X]   Cifrar
   - [X]   Descifrar
-  - Autoevaluación :
+  - Autoevaluación :4.5
   - Coevaluación:
     - Marcos:5.0
     - Jherson:
@@ -35,7 +35,7 @@
   - Autoevaluación :  3.5
   - Coevaluación:
     - Marcos:5.0
-    - Geraldine:
+    - Geraldine:4.0
     - Jherson:   
     ### Total:
   - Heteroevaluación:
@@ -47,7 +47,7 @@
   - Autoevaluación :5.0
   - Coevaluación:
     - Jherson:
-    - Geraldine:
+    - Geraldine:5.0
     - Andres: 3.0   
     ### Total:
   - Heteroevaluación:
