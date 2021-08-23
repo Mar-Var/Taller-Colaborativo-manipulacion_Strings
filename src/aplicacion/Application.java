@@ -33,7 +33,7 @@ public class Application {
 			case "Convertir a nombre propio":
 				
 				JOptionPane.showMessageDialog(null,"Cadena original: "+f.getDEFAULT_MESSAGE()+
-						"\nNombre propio: "+f.ConvertProperName());
+						"\nNombre propio: "+f.convertProperName());
 				break;
 			case "Contar veces que aparece una cadena en el texto":
 				JOptionPane.showMessageDialog(null,"Cantidad de veces que aparece la palabra: "+

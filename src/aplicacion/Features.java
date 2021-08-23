@@ -27,7 +27,7 @@ public class Features {
 	* @return String converted to proper name
 	**/
 	
-	public String ConvertProperName() {
+	public String convertProperName() {
 		String convertedString="";
 		
 		for (int i = 0; i < DEFAULT_MESSAGE.length(); i++) {
@@ -165,6 +165,7 @@ public class Features {
 			
 			f+=(output.indexOf(output.charAt(j))==j)?output.charAt(j):"";
 		}
+		
 		return f;
 	}
 	
