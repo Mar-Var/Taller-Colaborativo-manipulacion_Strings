@@ -11,7 +11,7 @@
   - Coevaluación:
     - Marcos: 5.0
     - Geraldine:5.0
-    - Andres: 3.0 
+    - Andres: 5.0
     ### Total:
   - Heteroevaluación:
   
@@ -23,7 +23,7 @@
   - Coevaluación:
     - Marcos:5.0
     - Jherson:
-    - Andres: 3.0   
+    - Andres: 4.5   
     ### Total:
   - Heteroevaluación:
 
@@ -48,7 +48,7 @@
   - Coevaluación:
     - Jherson:
     - Geraldine:5.0
-    - Andres: 3.0   
+    - Andres: 4.5   
     ### Total:
   - Heteroevaluación:
 ## IDE:
