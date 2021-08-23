@@ -41,13 +41,48 @@ public class Features {
 		return null;
 	}
 	
-	public String addCharacters(char letter,int amount,char orientation) {
-		
-		return null;
+	/**
+	* Method that seeks to generate a string concatenated with the character n times left or right
+	* @param letter The letter parameter defines the character to be added to the parameter string of the
+	  class constructor
+	* @param amount The amount parameter defines the number of times the letter character will be repeated
+	* @param orientation The orientation parameter defines if the data will be entered from the left
+	  or to the right of the class constructor parameter string
+	* @return The string with the character "letter" repeated "amount" times on the "orientation" side
+	*/
+	
+	public String addCharacters(char letter,int amount,String orientation) {
+		String add="";
+		for (int i = 0; i < amount; i++) {
+			add+=letter;
+		}
+		if(orientation=="Izquierda") {
+			return add+DEFAULT_MESSAGE;
+		}else if(orientation=="Derecha") {
+			return DEFAULT_MESSAGE+add;
+		}else {
+			return "Error";
+		}
 	}
 	
+	/**
+	* This method removes the letter character from the entire string set by default in the class constructor
+	* @param letter The letter parameter defines the character to be removed from the parameter string
+	  from the class constructor
+	* @return The string without the letter character anywhere
+	*/
+	
 	public String deleteCharacter(char letter) {
-		return null;
+		
+		String output="";
+		for (int i = 0; i < DEFAULT_MESSAGE.length(); i++) {
+			
+			//Loop to remove a character from a string
+			
+			output+=(DEFAULT_MESSAGE.toLowerCase().charAt(i)==Character.toLowerCase(letter))?
+					"":DEFAULT_MESSAGE.charAt(i);
+		}
+		return DEFAULT_MESSAGE.length()>0?output:"Error:Imposible acceder";
 	}
 	
 	/**
@@ -78,9 +113,21 @@ public class Features {
 		return f;
 	}
 	
+	/**
+	* This method faces two strings in order to show at the end which characters do not belong to the intersection of
+	  themselves
+	* @param word The word parameter defines a string that will be matched to the parent string of the constructor of
+	  class
+	* @return A string with all the characters that do not have "word" or defaultMessage in common.
+	*/
+	
 	public String differentiateStrings(String word) {
-		
-		return null;
+		String output="";
+		for (int i = 0; i < DEFAULT_MESSAGE.length(); i++) {
+			output+=(word.toLowerCase().indexOf(DEFAULT_MESSAGE.toLowerCase().charAt(i))>=0)?
+					"":DEFAULT_MESSAGE.charAt(i);			
+		}
+		return DEFAULT_MESSAGE.length()>0?word:output;
 	}
 	
 	/**

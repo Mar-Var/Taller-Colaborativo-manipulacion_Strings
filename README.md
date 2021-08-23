@@ -4,9 +4,9 @@
 
 - Jherson Mauricio Baez Paco
   ### Asignaciones:
-  - [ ]  Llenar caracteres,
-  - [ ]  Borrar caracteres
-  - [ ]  Diferencia
+  - [X]  Llenar caracteres,
+  - [X]  Borrar caracteres
+  - [X]  Diferencia
   - Autoevaluación :
   - Coevaluación:
     - Marcos:
