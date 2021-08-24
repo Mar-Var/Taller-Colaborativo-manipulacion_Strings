@@ -7,7 +7,7 @@
   - [X]  Llenar caracteres,
   - [X]  Borrar caracteres
   - [X]  Diferencia
-  - Autoevaluación :
+  - Autoevaluación :4.2
   - Coevaluación:
     - Marcos: 5.0
     - Geraldine:5.0
