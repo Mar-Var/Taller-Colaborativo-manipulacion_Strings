@@ -12,7 +12,7 @@
     - Marcos: 5.0
     - Geraldine:5.0
     - Andres: 5.0
-    ### Total:
+    ### Total: 5.0
   - Heteroevaluación:
   
 - Geraldine Alexandra Parada Tobar
@@ -24,7 +24,7 @@
     - Marcos:5.0
     - Jherson:5.0
     - Andres: 5.0   
-    ### Total:
+    ### Total: 5.0
   - Heteroevaluación:
 
 - Andres Felipe Ponguta Perez
@@ -37,7 +37,7 @@
     - Marcos:5.0
     - Geraldine:4.0
     - Jherson: 4.5  
-    ### Total:
+    ### Total:4.5
   - Heteroevaluación:
 - Marcos Esteban Vargas Avella
   ### Asignaciones:
@@ -49,7 +49,7 @@
     - Jherson:5.0
     - Geraldine:5.0
     - Andres: 5.0   
-    ### Total:
+    ### Total:5.0
   - Heteroevaluación:
 ## IDE:
 - Eclipse
