@@ -22,7 +22,7 @@
   - Autoevaluación :4.5
   - Coevaluación:
     - Marcos:5.0
-    - Jherson:
+    - Jherson:5.0
     - Andres: 5.0   
     ### Total:
   - Heteroevaluación:
@@ -36,7 +36,7 @@
   - Coevaluación:
     - Marcos:5.0
     - Geraldine:4.0
-    - Jherson:   
+    - Jherson: 4.5  
     ### Total:
   - Heteroevaluación:
 - Marcos Esteban Vargas Avella
@@ -46,7 +46,7 @@
   - [X]   Validar Email
   - Autoevaluación :5.0
   - Coevaluación:
-    - Jherson:
+    - Jherson:5.0
     - Geraldine:5.0
     - Andres: 5.0   
     ### Total:
